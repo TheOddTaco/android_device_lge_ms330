@@ -16,7 +16,7 @@ Shipped Android Version | 5.1
 Storage | 8GB
 Battery | 2125  mAh
 Display | 5.0" 854 x 480 px
-Camera  | 5MPx, LED Flas
+Camera  | 5MPx, LED Flash
 Video   | 720p@30fps
 
 # CyanogenMod Current Status:
