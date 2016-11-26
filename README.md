@@ -3,8 +3,9 @@
 
 ![alt text](http://i.imgur.com/AqLc4NQ.jpg "LG K7")
 
-Announced: January 2016
-Released: February 2016
+*Announced: January 2016*
+
+**Released: February 2016**
 
 Basic   | Spec Sheet
 -------:|:-------------------------
