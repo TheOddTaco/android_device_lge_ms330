@@ -7,6 +7,12 @@ $(call inherit-product-if-exists, vendor/lge/ms330/ms330-vendor.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/lge/ms330/overlay
 
+PRODUCT_COPY_FILES += \
+$(LOCAL_PATH)/init.recovery.ms330.rc:root/init.recovery.ms330.rc
+
+PRODUCT_COPY_FILES += \
+device/lge/ms330/kernel:kernel
+
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
 	LOCAL_KERNEL := device/lge/ms330/kernel
