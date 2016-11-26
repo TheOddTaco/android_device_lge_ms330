@@ -25,7 +25,7 @@ BOARD_MKBOOTIMG_ARGS := --kernel_offset 0x00008000 --ramdisk_offset 0x01000000 -
 TARGET_PREBUILT_KERNEL := device/lge/ms330/kernel
 # else uncomment below to build from source
 TARGET_KERNEL_SOURCE := kernel/lge/msm8909
-TARGET_KERNEL_CONFIG := msm8909-1gb-perf_defconfig
+TARGET_KERNEL_CONFIG := m1_mpcs_us_defconfig
 
 BOARD_BOOTIMAGE_PARTITION_SIZE := 25165824
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 25165824
